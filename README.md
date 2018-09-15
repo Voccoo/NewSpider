@@ -1,6 +1,4 @@
 # NewSpider
-本篇文章为scrapy-redis的实例应用，源码已经上传到github:
-
 使用到了：
 python 3.x
 redis
